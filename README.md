@@ -8,8 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben4010&label=Profile%20views&color=0e75b6&style=flat" alt="ben4010" /> </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/Benneth Sisimit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benneth sisimit" height="30" width="40" /></a>
 <a href="https://instagram.com/___benneth.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___benneth.___" height="30" width="40" /></a>
 </p>
 
@@ -21,5 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ben4010&show_icons=true&locale=en" alt="ben4010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ben4010&" alt="ben4010" /></p>
+
 
 
